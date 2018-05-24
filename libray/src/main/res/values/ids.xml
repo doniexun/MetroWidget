@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="focus_scale_animator" type="id" />
+    <item name="focus_translation_animator" type="id" />
+    <item name="metro_widget_view" type="id" />
+</resources>
